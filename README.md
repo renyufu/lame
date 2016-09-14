@@ -7,4 +7,4 @@ lame@ubuntu docker image.
 
 1. `docker pull renyufu/lame`
 
-2. `docker run --rm -it -v \`pwd\`:/mp3 renyufu/lame`
+2. `docker run --rm -it -v /`pwd/`:/mp3 renyufu/lame`
